@@ -1,5 +1,9 @@
 # Virtual Assistant - Shifra
 
+## Preview
+
+![Preview](assets/screenshot.png)
+
 A simple web-based virtual assistant that uses speech recognition and text-to-speech to interact with users.
 
 ## Features
